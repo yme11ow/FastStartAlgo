@@ -1,0 +1,8 @@
+name: FastStartAlgo
+version: 0.2.1
+main: org.github.yme11ow.faststartalgo.FastStartAlgo
+
+commands:
+  villagelocator:
+    description: Find the closest villages!
+    aliases: [locate]
